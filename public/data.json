@@ -1,0 +1,38 @@
+[
+    {
+      "id": "6237810bdad8c2ef94000cfa",
+      "age": 23,
+      "eyeColor": "green",
+      "name": "Noble Foley"
+    },
+    {
+      "id": "6237810bed1c13a3a9c8a690",
+      "age": 24,
+      "eyeColor": "brown",
+      "name": "Vasquez Witt"
+    },
+    {
+      "id": "6237810b8c5ae38868e64dc3",
+      "age": 21,
+      "eyeColor": "green",
+      "name": "Leona Pratt"
+    },
+    {
+      "id": "6237810bf6fd321077e27ab9",
+      "age": 39,
+      "eyeColor": "blue",
+      "name": "Marla Durham"
+    },
+    {
+      "id": "6237810bc2a547c4d2724d83",
+      "age": 30,
+      "eyeColor": "brown",
+      "name": "Miranda Lyons"
+    },
+    {
+      "id": "6237810b1641f42fb09273e9",
+      "age": 31,
+      "eyeColor": "brown",
+      "name": "Clarice Villarreal"
+    }
+  ]
